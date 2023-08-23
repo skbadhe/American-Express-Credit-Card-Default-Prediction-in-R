@@ -1,4 +1,3 @@
-#American-Express-Credit-Card-Default-Prediction-in-R
 **American Express Credit Card Default Prediction using Random Forest in R**
 
 This repository contains code and resources for performing predictive analysis on American Express credit card default using the Random Forest algorithm in R.
