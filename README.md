@@ -1,4 +1,4 @@
-**American Express Credit Card Default Prediction using Random Forest in R**
+#American Express Credit Card Default Prediction using Random Forest in R
 
 This repository contains code and resources for performing predictive analysis on American Express credit card default using the Random Forest algorithm in R.
 
@@ -22,7 +22,7 @@ Predicting credit card defaults is crucial for financial institutions to manage 
 
 **Dataset**
 
-The dataset used in this project is sourced from Kaggle, link to the full dataset is [here](https://www.kaggle.com/competitions/amex-default-prediction/data). You can find the dataset here under /Data which is a subset of this dataset.
+The dataset used in this project is sourced from Kaggle, link to the full dataset is [here](https://www.kaggle.com/competitions/amex-default-prediction/data).
 
 **Usage**
 
