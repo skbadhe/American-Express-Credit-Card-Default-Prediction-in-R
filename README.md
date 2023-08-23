@@ -15,7 +15,7 @@ Predicting credit card defaults is crucial for financial institutions to manage 
 
 **Getting Started**
 
-    Clone this repository using git clone [link](https://github.com/your-username/credit-card-default-prediction.git).
+    Clone this repository using git clone [link](https://github.com/skbadhe/American-Express-Credit-Card-Default-Prediction-in-R.git).
     Navigate to the project directory: cd credit-card-default-prediction.
     Install the required R packages. These are randomForest, datasets, caret and dplyr.
     Open and run the R script in RStudio or your preferred R environment.
